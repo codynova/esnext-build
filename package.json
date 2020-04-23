@@ -1,0 +1,23 @@
+{
+  "name": "esnext-build",
+  "version": "0.0.1",
+  "description": "Build process for TS, JS, SCSS, and React with ESNext and optional CSS modules + IE11 support",
+  "main": "lib/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codynova/esnext-build.git"
+  },
+  "author": "Cody Nova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codynova/esnext-build/issues"
+  },
+  "homepage": "https://github.com/codynova/esnext-build#readme",
+  "devDependencies": {
+
+  },
+  "dependencies": {}
+}
