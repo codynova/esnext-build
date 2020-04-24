@@ -1,20 +1,20 @@
 {
-  "name": "esnext-build",
-  "version": "0.0.2",
-  "description": "Build process for TS, JS, SCSS, and React with ESNext and optional CSS modules + IE11 support",
-  "main": "lib/index.js",
-  "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/codynova/esnext-build.git"
-  },
-  "author": "Cody Nova",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/codynova/esnext-build/issues"
-  },
-  "homepage": "https://github.com/codynova/esnext-build#readme",
-  "dependencies": {
+	"name": "esnext-build",
+	"version": "0.0.2",
+	"description": "Build process for TS, JS, SCSS, and React with ESNext and optional CSS modules + IE11 support",
+	"main": "lib/index.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/codynova/esnext-build.git"
+	},
+	"author": "Cody Nova",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/codynova/esnext-build/issues"
+	},
+	"homepage": "https://github.com/codynova/esnext-build#readme",
+	"dependencies": {
 		"@babel/core": "7.9.0",
 		"@babel/preset-env": "7.9.5",
 		"@babel/preset-react": "7.9.4",
@@ -49,5 +49,5 @@
 		"webpack": "4.43.0",
 		"webpack-cli": "3.3.11",
 		"webpack-dev-server": "3.10.3"
-  }
+	}
 }
