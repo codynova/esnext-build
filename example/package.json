@@ -15,6 +15,6 @@
 	"author": "Cody Nova",
 	"license": "ISC",
 	"devDependencies": {
-		"esnext-build": "0.0.3"
+		"esnext-build": "0.0.4"
 	}
 }
