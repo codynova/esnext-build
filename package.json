@@ -1,6 +1,6 @@
 {
   "name": "esnext-build",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Build process for TS, JS, SCSS, and React with ESNext and optional CSS modules + IE11 support",
   "main": "lib/index.js",
   "scripts": {},

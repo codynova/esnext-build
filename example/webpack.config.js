@@ -1,20 +1,21 @@
-const { webpackConfig } = require('esnext-build');
+const { webpackConfig } = require('../lib');
 
 module.exports = (env, argv) => webpackConfig({
     argv,
     entries: {
-        main: {
+        bundle: {
             file: 'index.js',
         },
-        tstest: {
+        'ts-bundle': {
             file: 'test.ts',
         },
-        styletest: {
+        styles: {
             file: 'styles/styles.scss',
             useCssModules: true,
         },
     },
     aliases: {
+        Data: 'data',
         Styles: 'styles',
         Types: 'types',
     },
