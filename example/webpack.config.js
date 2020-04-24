@@ -1,4 +1,4 @@
-const { webpackConfig } = require('../lib');
+const { webpackConfig } = require('esnext-build');
 
 module.exports = (env, argv) => webpackConfig({
     argv,
