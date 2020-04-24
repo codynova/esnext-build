@@ -2932,10 +2932,10 @@ eslint@6.8.0:
     text-table "^0.2.0"
     v8-compile-cache "^2.0.3"
 
-esnext-build@0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/esnext-build/-/esnext-build-0.0.2.tgz#eff950f063e650f9d807887bbcf443350cd380dd"
-  integrity sha512-Md7HqngBsbzmEd9an0jy0W8tfgrkpwMeskmom4TgVzaAMXq+607SSg3m7IUxr9pz+X4WeyoJe4X7F23n7aiNZg==
+esnext-build@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/esnext-build/-/esnext-build-0.0.3.tgz#7cb7929c2136487525fa47445823d733b4304746"
+  integrity sha512-9eQ5bygVdfMlY79BHyRw27OE8mXFmPwcUvnqDB3rStzcKKvg3ACwqpJKGfTwyd74tOh2qWC1R+kEmVZ5/qzq4Q==
   dependencies:
     "@babel/core" "7.9.0"
     "@babel/preset-env" "7.9.5"
